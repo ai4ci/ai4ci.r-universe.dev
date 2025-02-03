@@ -8,5 +8,10 @@
     "package" : "interfacer",
     "url" : "https://github.com/ai4ci/interfacer",
     "branch" : "*release"
+  },
+  {
+    "package" : "huxtableone",
+    "url" : "https://github.com/ai4ci/huxtableone",
+    "branch" : "*release"
   }
 ]
