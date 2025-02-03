@@ -3,5 +3,10 @@
     "package" : "ggoutbreak",
     "url" : "https://github.com/ai4ci/ggoutbreak",
     "branch" : "*release"
+  },
+  {
+    "package" : "interfacer",
+    "url" : "https://github.com/ai4ci/interfacer",
+    "branch" : "*release"
   }
 ]
