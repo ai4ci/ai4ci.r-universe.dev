@@ -13,5 +13,10 @@
     "package" : "huxtableone",
     "url" : "https://github.com/ai4ci/huxtableone",
     "branch" : "*release"
+  },
+  {
+    "package" : "tidyabc",
+    "url" : "https://github.com/ai4ci/tidyabc",
+    "branch" : "*release"
   }
 ]
