@@ -18,5 +18,10 @@
     "package" : "tidyabc",
     "url" : "https://github.com/ai4ci/tidyabc",
     "branch" : "*release"
+  },
+  {
+    "package" : "ukc19",
+    "url" : "https://github.com/ai4ci/ukc19",
+    "branch" : "*release"
   }
 ]
